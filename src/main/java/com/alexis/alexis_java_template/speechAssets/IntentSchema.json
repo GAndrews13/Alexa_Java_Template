@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "intent": "handleEventRequest",
+      "slots": [
+        {
+          "name": "project",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
