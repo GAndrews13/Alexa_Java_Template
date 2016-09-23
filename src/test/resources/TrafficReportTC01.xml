@@ -1,0 +1,24 @@
+<item>
+    <author>info@highwaysengland.co.uk</author>
+    <category>Congestion</category>
+    <category>Minor Disruption - up to 15 minutes delay</category>
+    <description>
+        Location : The M54 eastbound between junction J1 and the M6 . Status : Currently Active. Return To Normal : Normal traffic conditions are expected between 14:30 and 14:45 on 17 September 2016. Delay : There are currently delays of 15 minutes against expected traffic. Reason : Congestion.
+    </description>
+    <guid isPermaLink="false">GUID1-762049</guid>
+    <link>http://www.trafficengland.com/?evtID=762049</link>
+    <pubDate>Sat, 17 Sep 2016 14:30:34 BST</pubDate>
+    <title>
+        M54 eastbound between J1 and M6 | Eastbound | Congestion
+    </title>
+    <reference>UF-16-09-17-600575</reference>
+    <road>M54</road>
+    <region>West Midlands</region>
+    <county>Staffordshire</county>
+    <latitude>52.63771</latitude>
+    <longitude>-2.0592744</longitude>
+    <overallStart>2016-09-17T14:21:30+01:00</overallStart>
+    <overallEnd>2016-09-17T14:37:03+01:00</overallEnd>
+    <eventStart>2016-09-17T14:21:30+01:00</eventStart>
+    <eventEnd>2016-09-17T14:37:03+01:00</eventEnd>
+</item>

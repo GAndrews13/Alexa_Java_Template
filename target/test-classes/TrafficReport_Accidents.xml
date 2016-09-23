@@ -1,0 +1,1402 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><rss version="2.0">
+    <channel>
+        <copyright>Copyright 2001</copyright>
+        <description>The latest incident information for England's motorway and trunk routes provided by Highways England</description>
+        <generator>HE-DATEX</generator>
+        <image>
+            <url>http://www.highways.gov.uk/wp-content/images/header-logo-ha.png</url>
+            <title>Latest Traffic Information for England - All confirmed events</title>
+            <link>http://www.trafficengland.com/</link>
+            <width>88</width>
+            <height>31</height>
+        </image>
+        <language>en-gb</language>
+        <link>http://www.trafficengland.com/</link>
+        <lastBuildDate>Fri, 23 Sep 2016 13:45:10 +0100</lastBuildDate>
+        <pubDate>Fri, 23 Sep 2016 13:45:10 BST</pubDate>
+        <title>Latest Traffic Incidents for England</title>
+        <ttl>2</ttl>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Vehicle Recovery</category>
+            <category>No Delay</category>
+            <description>Status : Currently Active. 
+                Lane Closures : The hard shoulder and lane 1 are closed. 
+                Time To Clear : The event is expected to clear between 13:45 and 14:00 on 23 September 2016. 
+                Location : The M62 eastbound at junction J11 . 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Lanes Closed : There is one of three lanes closed. 
+                Reason : Vehicle tyre change. 
+            </description>
+            <guid isPermaLink="false">GUID1-773021</guid>
+            <link>http://www.trafficengland.com/?evtID=773021</link>
+            <pubDate>Fri, 23 Sep 2016 13:32:27 BST</pubDate>
+            <title>M62 eastbound within J11 | Eastbound | Vehicle Recovery</title>
+            <reference>UF-16-09-23-503819</reference>
+            <road>M62</road>
+            <region>North West</region>
+            <county>Warrington</county>
+            <latitude>53.435192</latitude>
+            <longitude>-2.4983082</longitude>
+            <overallStart>2016-09-23T13:15:47+01:00</overallStart>
+            <overallEnd>2016-09-23T13:57:00+01:00</overallEnd>
+            <eventStart>2016-09-23T13:15:47+01:00</eventStart>
+            <eventEnd>2016-09-23T13:57:00+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The M25 clockwise exit slip at junction J23 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-773047</guid>
+            <link>http://www.trafficengland.com/?evtID=773047</link>
+            <pubDate>Fri, 23 Sep 2016 13:41:51 BST</pubDate>
+            <title>M25 J23 clockwise exit | Clockwise | Congestion</title>
+            <reference>UF-16-09-23-504347</reference>
+            <road>M25</road>
+            <region>Eastern</region>
+            <county>Hertfordshire</county>
+            <latitude>51.688347</latitude>
+            <longitude>-0.2320539</longitude>
+            <overallStart>2016-09-23T13:34:23+01:00</overallStart>
+            <overallEnd>2016-09-23T13:46:45+01:00</overallEnd>
+            <eventStart>2016-09-23T13:34:23+01:00</eventStart>
+            <eventEnd>2016-09-23T13:46:45+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Vehicle Recovery</category>
+            <category>No Delay</category>
+            <description>Location : The M62 eastbound entry slip at junction J11 . 
+                Status : Currently Active. 
+                Reason : Vehicle tyre change. 
+            </description>
+            <guid isPermaLink="false">GUID1-773020</guid>
+            <link>http://www.trafficengland.com/?evtID=773020</link>
+            <pubDate>Fri, 23 Sep 2016 13:15:32 BST</pubDate>
+            <title>M62 J11 eastbound access | Eastbound | Vehicle Recovery</title>
+            <reference>UF-16-09-23-503818</reference>
+            <road>M62</road>
+            <region>North West</region>
+            <county>Warrington</county>
+            <latitude>53.43544</latitude>
+            <longitude>-2.498584</longitude>
+            <overallStart>2016-09-23T13:14:40+01:00</overallStart>
+            <overallEnd>2016-09-23T13:15:41+01:00</overallEnd>
+            <eventStart>2016-09-23T13:14:40+01:00</eventStart>
+            <eventEnd>2016-09-23T13:15:41+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The M1 southbound between junctions J2  and J1 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-772998</guid>
+            <link>http://www.trafficengland.com/?evtID=772998</link>
+            <pubDate>Fri, 23 Sep 2016 13:42:04 BST</pubDate>
+            <title>M1 southbound between J2 and J1 | Southbound | Congestion</title>
+            <reference>UF-16-09-23-504318</reference>
+            <road>M1</road>
+            <region>Eastern</region>
+            <county>Greater London Authority</county>
+            <latitude>51.574406</latitude>
+            <longitude>-0.23316698</longitude>
+            <overallStart>2016-09-23T13:34:22+01:00</overallStart>
+            <overallEnd>2016-09-23T13:46:44+01:00</overallEnd>
+            <eventStart>2016-09-23T13:34:22+01:00</eventStart>
+            <eventEnd>2016-09-23T13:46:44+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>No Delay</category>
+            <description>Location : The M1 northbound entry slip at junction J14 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-773055</guid>
+            <link>http://www.trafficengland.com/?evtID=773055</link>
+            <pubDate>Fri, 23 Sep 2016 13:41:52 BST</pubDate>
+            <title>M1 J14 northbound access | Northbound | Congestion</title>
+            <reference>UF-16-09-23-504355</reference>
+            <road>M1</road>
+            <region>Eastern</region>
+            <county>Milton Keynes</county>
+            <latitude>52.059593</latitude>
+            <longitude>-0.7027304</longitude>
+            <overallStart>2016-09-23T13:34:23+01:00</overallStart>
+            <overallEnd>2016-09-23T13:46:45+01:00</overallEnd>
+            <eventStart>2016-09-23T13:34:23+01:00</eventStart>
+            <eventEnd>2016-09-23T13:46:45+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The M1 northbound between junctions J13  and J14 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-773040</guid>
+            <link>http://www.trafficengland.com/?evtID=773040</link>
+            <pubDate>Fri, 23 Sep 2016 13:44:42 BST</pubDate>
+            <title>M1 northbound between J13 and J14 | Northbound | Congestion</title>
+            <reference>UF-16-09-23-504340</reference>
+            <road>M1</road>
+            <region>Eastern</region>
+            <county>Milton Keynes</county>
+            <latitude>52.041893</latitude>
+            <longitude>-0.65454346</longitude>
+            <overallStart>2016-09-23T13:34:22+01:00</overallStart>
+            <overallEnd>2016-09-23T13:46:45+01:00</overallEnd>
+            <eventStart>2016-09-23T13:34:22+01:00</eventStart>
+            <eventEnd>2016-09-23T13:46:45+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The A27 eastbound between the junctions with the A22 Polegate West and the A22 Polegate East. 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-773036</guid>
+            <link>http://www.trafficengland.com/?evtID=773036</link>
+            <pubDate>Fri, 23 Sep 2016 13:42:43 BST</pubDate>
+            <title>A27 eastbound between A22 Polegate West and A22 Polegate East | Eastbound | Congestion</title>
+            <reference>UF-16-09-23-504336</reference>
+            <road>A27</road>
+            <region>South East</region>
+            <county>East Sussex</county>
+            <latitude>50.826996</latitude>
+            <longitude>0.25880867</longitude>
+            <overallStart>2016-09-23T13:34:22+01:00</overallStart>
+            <overallEnd>2016-09-23T13:46:37+01:00</overallEnd>
+            <eventStart>2016-09-23T13:34:22+01:00</eventStart>
+            <eventEnd>2016-09-23T13:46:37+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The A1M northbound at junction J1 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 14:15 and 14:30 on 23 September 2016. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-772928</guid>
+            <link>http://www.trafficengland.com/?evtID=772928</link>
+            <pubDate>Fri, 23 Sep 2016 13:36:56 BST</pubDate>
+            <title>A1(M) northbound within J1(M) | Northbound | Congestion</title>
+            <reference>UF-16-09-23-503739</reference>
+            <road>A1(M)</road>
+            <region>Eastern</region>
+            <county>Hertfordshire</county>
+            <latitude>51.683163</latitude>
+            <longitude>-0.23176135</longitude>
+            <overallStart>2016-09-23T12:53:22+01:00</overallStart>
+            <overallEnd>2016-09-23T14:17:32+01:00</overallEnd>
+            <eventStart>2016-09-23T12:53:22+01:00</eventStart>
+            <eventEnd>2016-09-23T14:17:32+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The M1 northbound at junction J11 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-772859</guid>
+            <link>http://www.trafficengland.com/?evtID=772859</link>
+            <pubDate>Fri, 23 Sep 2016 13:41:50 BST</pubDate>
+            <title>M1 northbound within J11 | Northbound | Congestion</title>
+            <reference>UF-16-09-23-503543</reference>
+            <road>M1</road>
+            <region>Eastern</region>
+            <county>Luton</county>
+            <latitude>51.89347</latitude>
+            <longitude>-0.4699371</longitude>
+            <overallStart>2016-09-23T12:39:22+01:00</overallStart>
+            <overallEnd>2016-09-23T13:46:44+01:00</overallEnd>
+            <eventStart>2016-09-23T12:39:22+01:00</eventStart>
+            <eventEnd>2016-09-23T13:46:44+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Accident</category>
+            <category>No Delay</category>
+            <description>Status : Currently Active. 
+                Lane Closures : Lane two is closed. 
+                Time To Clear : The event is expected to clear between 14:15 and 14:30 on 23 September 2016. 
+                Delay : There are currently delays of 40 minutes against expected traffic. 
+                Location : The A14 eastbound between junctions J22 Huntingdon Racecourse and J23 Huntingdon. 
+                Return To Normal : Normal traffic conditions are expected between 14:15 and 14:30 on 23 September 2016. 
+                Lanes Closed : There is one of two lanes closed. 
+                Reason : Road traffic collision. 
+            </description>
+            <guid isPermaLink="false">GUID1-772899</guid>
+            <link>http://www.trafficengland.com/?evtID=772899</link>
+            <pubDate>Fri, 23 Sep 2016 13:44:33 BST</pubDate>
+            <title>A14 eastbound between J22 and J23 | Eastbound | Accident</title>
+            <reference>UF-16-09-23-503559</reference>
+            <road>A14</road>
+            <region>Eastern</region>
+            <county>Cambridgeshire</county>
+            <latitude>52.329777</latitude>
+            <longitude>-0.22534564</longitude>
+            <overallStart>2016-09-23T12:42:56+01:00</overallStart>
+            <overallEnd>2016-09-23T14:26:00+01:00</overallEnd>
+            <eventStart>2016-09-23T12:42:56+01:00</eventStart>
+            <eventEnd>2016-09-23T14:26:00+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The A1 northbound exit slip to the M25 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 14:15 and 14:30 on 23 September 2016. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-772916</guid>
+            <link>http://www.trafficengland.com/?evtID=772916</link>
+            <pubDate>Fri, 23 Sep 2016 13:36:55 BST</pubDate>
+            <title>A1 northbound exit for M25/A1(M) | Northbound | Congestion</title>
+            <reference>UF-16-09-23-503727</reference>
+            <road>A1</road>
+            <region>Eastern</region>
+            <county>Hertfordshire</county>
+            <latitude>51.6837</latitude>
+            <longitude>-0.23167524</longitude>
+            <overallStart>2016-09-23T12:53:22+01:00</overallStart>
+            <overallEnd>2016-09-23T14:17:32+01:00</overallEnd>
+            <eventStart>2016-09-23T12:53:22+01:00</eventStart>
+            <eventEnd>2016-09-23T14:17:32+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Moderate Disruption - between 15 minutes and 3 hours delay</category>
+            <description>Status : Currently Active. 
+                Delay : There are currently delays of 40 minutes against expected traffic. 
+                Location : The M3 eastbound between junctions J3  and J2 . 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Cause : Road traffic collision. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-773051</guid>
+            <link>http://www.trafficengland.com/?evtID=773051</link>
+            <pubDate>Fri, 23 Sep 2016 13:44:18 BST</pubDate>
+            <title>M3 eastbound between J3 and J2 | Eastbound | Congestion</title>
+            <reference>UF-16-09-23-504351</reference>
+            <road>M3</road>
+            <region>South East</region>
+            <county>Surrey</county>
+            <latitude>51.37413</latitude>
+            <longitude>-0.60735756</longitude>
+            <overallStart>2016-09-23T13:34:23+01:00</overallStart>
+            <overallEnd>2016-09-23T13:46:37+01:00</overallEnd>
+            <eventStart>2016-09-23T13:34:23+01:00</eventStart>
+            <eventEnd>2016-09-23T13:46:37+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Accident</category>
+            <category>No Delay</category>
+            <description>Status : Currently Active. 
+                Lane Closures : The hard shoulder and lane 1 are closed. 
+                Time To Clear : The event is expected to clear between 15:00 and 15:15 on 23 September 2016. 
+                Delay : There are currently delays of 40 minutes against expected traffic. 
+                Location : The M3 eastbound between junctions J3  and J2 . 
+                Return To Normal : Normal traffic conditions are expected between 15:00 and 15:15 on 23 September 2016. 
+                Lanes Closed : There is one of three lanes closed. 
+                Reason : Road traffic collision. 
+            </description>
+            <guid isPermaLink="false">GUID1-773060</guid>
+            <link>http://www.trafficengland.com/?evtID=773060</link>
+            <pubDate>Fri, 23 Sep 2016 13:44:29 BST</pubDate>
+            <title>M3 eastbound between J3 and J2 | Eastbound | Accident</title>
+            <reference>UF-16-09-23-504383</reference>
+            <road>M3</road>
+            <region>South East</region>
+            <county>Surrey</county>
+            <latitude>51.397396</latitude>
+            <longitude>-0.5520083</longitude>
+            <overallStart>2016-09-23T13:43:14+01:00</overallStart>
+            <overallEnd>2016-09-23T15:04:41+01:00</overallEnd>
+            <eventStart>2016-09-23T13:43:14+01:00</eventStart>
+            <eventEnd>2016-09-23T15:04:41+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Moderate Disruption - between 15 minutes and 3 hours delay</category>
+            <description>Location : The M4 eastbound between junctions J6  and J5 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Delay : There are currently delays of 20 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-772994</guid>
+            <link>http://www.trafficengland.com/?evtID=772994</link>
+            <pubDate>Fri, 23 Sep 2016 13:44:43 BST</pubDate>
+            <title>M4 eastbound between J6 and J5 | Eastbound | Congestion</title>
+            <reference>UF-16-09-23-504314</reference>
+            <road>M4</road>
+            <region>Eastern</region>
+            <county>Slough</county>
+            <latitude>51.4921</latitude>
+            <longitude>-0.5818446</longitude>
+            <overallStart>2016-09-23T13:34:22+01:00</overallStart>
+            <overallEnd>2016-09-23T13:52:07+01:00</overallEnd>
+            <eventStart>2016-09-23T13:34:22+01:00</eventStart>
+            <eventEnd>2016-09-23T13:52:07+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The A63 westbound between the A1033 North and the junction with the A1079 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-772525</guid>
+            <link>http://www.trafficengland.com/?evtID=772525</link>
+            <pubDate>Fri, 23 Sep 2016 13:41:50 BST</pubDate>
+            <title>A63 westbound between A1033 and A1165 | Westbound | Congestion</title>
+            <reference>UF-16-09-23-502147</reference>
+            <road>A63</road>
+            <region>North East</region>
+            <county>City of Kingston upon Hull</county>
+            <latitude>53.747337</latitude>
+            <longitude>-0.30485076</longitude>
+            <overallStart>2016-09-23T10:35:45+01:00</overallStart>
+            <overallEnd>2016-09-23T13:46:44+01:00</overallEnd>
+            <eventStart>2016-09-23T10:35:45+01:00</eventStart>
+            <eventEnd>2016-09-23T13:46:44+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Moderate Disruption - between 15 minutes and 3 hours delay</category>
+            <description>Location : The M40 northbound between junctions J11  and J12 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Delay : There are currently delays of 30 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-773085</guid>
+            <link>http://www.trafficengland.com/?evtID=773085</link>
+            <pubDate>Fri, 23 Sep 2016 13:44:49 BST</pubDate>
+            <title>M40 northbound between J11 and J12 | Northbound | Congestion</title>
+            <reference>UF-16-09-23-504381</reference>
+            <road>M40</road>
+            <region>Eastern</region>
+            <county>Warwickshire</county>
+            <latitude>52.131294</latitude>
+            <longitude>-1.3933991</longitude>
+            <overallStart>2016-09-23T13:42:31+01:00</overallStart>
+            <overallEnd>2016-09-23T13:47:31+01:00</overallEnd>
+            <eventStart>2016-09-23T13:42:31+01:00</eventStart>
+            <eventEnd>2016-09-23T13:47:31+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The A628 westbound between the A6024  and the junction with the A57 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-772781</guid>
+            <link>http://www.trafficengland.com/?evtID=772781</link>
+            <pubDate>Fri, 23 Sep 2016 13:42:49 BST</pubDate>
+            <title>A628 westbound between B6105 and A57 | Westbound | Congestion</title>
+            <reference>UF-16-09-23-503446</reference>
+            <road>A628</road>
+            <region>East Midlands</region>
+            <county>Derbyshire</county>
+            <latitude>53.475143</latitude>
+            <longitude>-1.9562542</longitude>
+            <overallStart>2016-09-23T12:08:22+01:00</overallStart>
+            <overallEnd>2016-09-23T13:46:44+01:00</overallEnd>
+            <eventStart>2016-09-23T12:08:22+01:00</eventStart>
+            <eventEnd>2016-09-23T13:46:44+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Vehicle Obstruction</category>
+            <category>Severe Disruption - in excess of 3 hours delay or road closure</category>
+            <description>Status : Currently Active. 
+                Time To Clear : The event is expected to clear between 15:00 and 15:15 on 23 September 2016. 
+                Location : The M25 anticlockwise exit slip at junction J18 . 
+                Return To Normal : Normal traffic conditions are expected between 15:00 and 15:15 on 23 September 2016. 
+                Lanes Closed : All lanes are closed. 
+                Reason : Medical emergency. 
+            </description>
+            <guid isPermaLink="false">GUID1-773082</guid>
+            <link>http://www.trafficengland.com/?evtID=773082</link>
+            <pubDate>Fri, 23 Sep 2016 13:42:39 BST</pubDate>
+            <title>M25 J18 anti-clockwise exit | Anti-Clockwise | Vehicle Obstruction</title>
+            <reference>UF-16-09-23-504378</reference>
+            <road>M25</road>
+            <region>Eastern</region>
+            <county>Hertfordshire</county>
+            <latitude>51.656467</latitude>
+            <longitude>-0.49376056</longitude>
+            <overallStart>2016-09-23T13:41:19+01:00</overallStart>
+            <overallEnd>2016-09-23T15:09:53+01:00</overallEnd>
+            <eventStart>2016-09-23T13:41:19+01:00</eventStart>
+            <eventEnd>2016-09-23T15:09:53+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The A303 eastbound between the junctions with the A36  and the A360 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-772876</guid>
+            <link>http://www.trafficengland.com/?evtID=772876</link>
+            <pubDate>Fri, 23 Sep 2016 13:41:50 BST</pubDate>
+            <title>A303 eastbound between A36 and A360 | Eastbound | Congestion</title>
+            <reference>UF-16-09-23-503512</reference>
+            <road>A303</road>
+            <region>South West</region>
+            <county>Wiltshire</county>
+            <latitude>51.15822</latitude>
+            <longitude>-1.9584477</longitude>
+            <overallStart>2016-09-23T12:34:34+01:00</overallStart>
+            <overallEnd>2016-09-23T13:46:44+01:00</overallEnd>
+            <eventStart>2016-09-23T12:34:34+01:00</eventStart>
+            <eventEnd>2016-09-23T13:46:44+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The M25 anticlockwise between junctions J24  and J23 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 14:00 and 14:15 on 23 September 2016. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-772867</guid>
+            <link>http://www.trafficengland.com/?evtID=772867</link>
+            <pubDate>Fri, 23 Sep 2016 13:42:04 BST</pubDate>
+            <title>M25 anti-clockwise within J24 | Anti-Clockwise | Congestion</title>
+            <reference>UF-16-09-23-503745</reference>
+            <road>M25</road>
+            <region>Eastern</region>
+            <county>Hertfordshire</county>
+            <latitude>51.687763</latitude>
+            <longitude>-0.16448984</longitude>
+            <overallStart>2016-09-23T12:54:31+01:00</overallStart>
+            <overallEnd>2016-09-23T14:12:43+01:00</overallEnd>
+            <eventStart>2016-09-23T12:54:31+01:00</eventStart>
+            <eventEnd>2016-09-23T14:12:43+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The A616 eastbound between the A628  and the junction with the A6102 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-773053</guid>
+            <link>http://www.trafficengland.com/?evtID=773053</link>
+            <pubDate>Fri, 23 Sep 2016 13:41:52 BST</pubDate>
+            <title>A616 eastbound between A628 and A6102 | Eastbound | Congestion</title>
+            <reference>UF-16-09-23-504353</reference>
+            <road>A616</road>
+            <region>North East</region>
+            <county>Barnsley District</county>
+            <latitude>53.50073</latitude>
+            <longitude>-1.6739562</longitude>
+            <overallStart>2016-09-23T13:34:23+01:00</overallStart>
+            <overallEnd>2016-09-23T13:46:37+01:00</overallEnd>
+            <eventStart>2016-09-23T13:34:23+01:00</eventStart>
+            <eventEnd>2016-09-23T13:46:37+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The M6 southbound between junctions J18  and J17 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-773032</guid>
+            <link>http://www.trafficengland.com/?evtID=773032</link>
+            <pubDate>Fri, 23 Sep 2016 13:42:06 BST</pubDate>
+            <title>M6 southbound within J18 | Southbound | Congestion</title>
+            <reference>UF-16-09-23-504332</reference>
+            <road>M6</road>
+            <region>North West</region>
+            <county>Cheshire East</county>
+            <latitude>53.20452</latitude>
+            <longitude>-2.3875961</longitude>
+            <overallStart>2016-09-23T13:34:22+01:00</overallStart>
+            <overallEnd>2016-09-23T13:46:45+01:00</overallEnd>
+            <eventStart>2016-09-23T13:34:22+01:00</eventStart>
+            <eventEnd>2016-09-23T13:46:45+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The A616 westbound between the junctions with the A6102  and the A628 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-772594</guid>
+            <link>http://www.trafficengland.com/?evtID=772594</link>
+            <pubDate>Fri, 23 Sep 2016 13:42:08 BST</pubDate>
+            <title>A616 westbound between A6102 and A628 | Westbound | Congestion</title>
+            <reference>UF-16-09-23-502387</reference>
+            <road>A616</road>
+            <region>North East</region>
+            <county>Sheffield District</county>
+            <latitude>53.492485</latitude>
+            <longitude>-1.6344506</longitude>
+            <overallStart>2016-09-23T10:59:22+01:00</overallStart>
+            <overallEnd>2016-09-23T13:46:44+01:00</overallEnd>
+            <eventStart>2016-09-23T10:59:22+01:00</eventStart>
+            <eventEnd>2016-09-23T13:46:44+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The M1 northbound entry slip at junction J24 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-773074</guid>
+            <link>http://www.trafficengland.com/?evtID=773074</link>
+            <pubDate>Fri, 23 Sep 2016 13:43:59 BST</pubDate>
+            <title>M1 J24 northbound access | Northbound | Congestion</title>
+            <reference>UF-16-09-23-504370</reference>
+            <road>M1</road>
+            <region>East Midlands</region>
+            <county>Leicestershire</county>
+            <latitude>52.84644</latitude>
+            <longitude>-1.2966108</longitude>
+            <overallStart>2016-09-23T13:41:32+01:00</overallStart>
+            <overallEnd>2016-09-23T13:46:32+01:00</overallEnd>
+            <eventStart>2016-09-23T13:41:32+01:00</eventStart>
+            <eventEnd>2016-09-23T13:46:32+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Broken down vehicle</category>
+            <category>No Delay</category>
+            <description>Status : Currently Active. 
+                Lane Closures : Lane one is closed. 
+                Time To Clear : The event is expected to clear between 14:30 and 14:45 on 23 September 2016. 
+                Location : The A1 northbound between the junctions with the A184  and the A694 . 
+                Return To Normal : Normal traffic conditions are expected between 14:15 and 14:30 on 23 September 2016. 
+                Lanes Closed : There is one of three lanes closed. 
+                Reason : Broken down vehicle. 
+            </description>
+            <guid isPermaLink="false">GUID1-773019</guid>
+            <link>http://www.trafficengland.com/?evtID=773019</link>
+            <pubDate>Fri, 23 Sep 2016 13:45:03 BST</pubDate>
+            <title>A1 northbound between A184 and A694 | Northbound | Broken down vehicle</title>
+            <reference>UF-16-09-23-503817</reference>
+            <road>A1</road>
+            <region>North East</region>
+            <county>Gateshead District</county>
+            <latitude>54.948746</latitude>
+            <longitude>-1.6419728</longitude>
+            <overallStart>2016-09-23T13:12:04+01:00</overallStart>
+            <overallEnd>2016-09-23T14:16:00+01:00</overallEnd>
+            <eventStart>2016-09-23T13:12:04+01:00</eventStart>
+            <eventEnd>2016-09-23T14:16:00+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The M25 anticlockwise exit slip at junction J3 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-773003</guid>
+            <link>http://www.trafficengland.com/?evtID=773003</link>
+            <pubDate>Fri, 23 Sep 2016 13:41:56 BST</pubDate>
+            <title>M25 J3 anti-clockwise exit | Anti-Clockwise | Congestion</title>
+            <reference>UF-16-09-23-504323</reference>
+            <road>M25</road>
+            <region>South East</region>
+            <county>Kent</county>
+            <latitude>51.385685</latitude>
+            <longitude>0.19130385</longitude>
+            <overallStart>2016-09-23T13:34:22+01:00</overallStart>
+            <overallEnd>2016-09-23T13:46:37+01:00</overallEnd>
+            <eventStart>2016-09-23T13:34:22+01:00</eventStart>
+            <eventEnd>2016-09-23T13:46:37+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The M25 anticlockwise exit slip at junction J1B . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 14:15 and 14:30 on 23 September 2016. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-772927</guid>
+            <link>http://www.trafficengland.com/?evtID=772927</link>
+            <pubDate>Fri, 23 Sep 2016 13:42:03 BST</pubDate>
+            <title>A282 northbound distributor between A2 and A296/A225 | Anti-Clockwise | Congestion</title>
+            <reference>UF-16-09-23-503738</reference>
+            <road>M25</road>
+            <region>South East</region>
+            <county>Kent</county>
+            <latitude>51.43234</latitude>
+            <longitude>0.23860204</longitude>
+            <overallStart>2016-09-23T12:53:22+01:00</overallStart>
+            <overallEnd>2016-09-23T14:27:36+01:00</overallEnd>
+            <eventStart>2016-09-23T12:53:22+01:00</eventStart>
+            <eventEnd>2016-09-23T14:27:36+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The A14 westbound between junctions J22 Huntingdon Racecourse and J21 A1 Junction. 
+                Status : Currently Active. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-773001</guid>
+            <link>http://www.trafficengland.com/?evtID=773001</link>
+            <pubDate>Fri, 23 Sep 2016 13:38:02 BST</pubDate>
+            <title>A14 westbound between J22 and J21 | Westbound | Congestion</title>
+            <reference>UF-16-09-23-504321</reference>
+            <road>A14</road>
+            <region>Eastern</region>
+            <county>Cambridgeshire</county>
+            <latitude>52.330204</latitude>
+            <longitude>-0.24123283</longitude>
+            <overallStart>2016-09-23T13:34:22+01:00</overallStart>
+            <overallEnd>2016-09-23T13:38:02+01:00</overallEnd>
+            <eventStart>2016-09-23T13:34:22+01:00</eventStart>
+            <eventEnd>2016-09-23T13:38:02+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The A550 southbound between the junctions with the A41  and the A540 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-773045</guid>
+            <link>http://www.trafficengland.com/?evtID=773045</link>
+            <pubDate>Fri, 23 Sep 2016 13:41:51 BST</pubDate>
+            <title>A550 southbound between A41 and B5463 | Southbound | Congestion</title>
+            <reference>UF-16-09-23-504345</reference>
+            <road>A550</road>
+            <region>North West</region>
+            <county>Cheshire West and Chester</county>
+            <latitude>53.289066</latitude>
+            <longitude>-2.9620652</longitude>
+            <overallStart>2016-09-23T13:34:22+01:00</overallStart>
+            <overallEnd>2016-09-23T13:46:37+01:00</overallEnd>
+            <eventStart>2016-09-23T13:34:22+01:00</eventStart>
+            <eventEnd>2016-09-23T13:46:37+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Moderate Disruption - between 15 minutes and 3 hours delay</category>
+            <description>Location : The M25 anticlockwise between junctions J3  and J2 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 14:15 and 14:30 on 23 September 2016. 
+                Delay : There are currently delays of 30 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-772864</guid>
+            <link>http://www.trafficengland.com/?evtID=772864</link>
+            <pubDate>Fri, 23 Sep 2016 13:44:09 BST</pubDate>
+            <title>M25 anti-clockwise within J3 before A20 roundabout access | Anti-Clockwise | Congestion</title>
+            <reference>UF-16-09-23-503548</reference>
+            <road>M25</road>
+            <region>South East</region>
+            <county>Kent</county>
+            <latitude>51.384132</latitude>
+            <longitude>0.19041768</longitude>
+            <overallStart>2016-09-23T12:41:22+01:00</overallStart>
+            <overallEnd>2016-09-23T14:29:32+01:00</overallEnd>
+            <eventStart>2016-09-23T12:41:22+01:00</eventStart>
+            <eventEnd>2016-09-23T14:29:32+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The M5 southbound between junctions J17  and J18 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Delay : There are currently delays of 15 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-772865</guid>
+            <link>http://www.trafficengland.com/?evtID=772865</link>
+            <pubDate>Fri, 23 Sep 2016 13:43:29 BST</pubDate>
+            <title>M5 southbound between J17 and J18 | Southbound | Congestion</title>
+            <reference>UF-16-09-23-503549</reference>
+            <road>M5</road>
+            <region>South West</region>
+            <county>City of Bristol</county>
+            <latitude>51.52737</latitude>
+            <longitude>-2.6139815</longitude>
+            <overallStart>2016-09-23T12:41:22+01:00</overallStart>
+            <overallEnd>2016-09-23T13:47:38+01:00</overallEnd>
+            <eventStart>2016-09-23T12:41:22+01:00</eventStart>
+            <eventEnd>2016-09-23T13:47:38+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The A47 eastbound between the junctions with the A15 Peterborough West and the A15 Peterborough East . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-772650</guid>
+            <link>http://www.trafficengland.com/?evtID=772650</link>
+            <pubDate>Fri, 23 Sep 2016 13:42:04 BST</pubDate>
+            <title>A47 eastbound between A15 near Peterborough (west) and A15 near Peterborough (east) | Eastbound | Congestion</title>
+            <reference>UF-16-09-23-503118</reference>
+            <road>A47</road>
+            <region>Eastern</region>
+            <county>City of Peterborough</county>
+            <latitude>52.60343</latitude>
+            <longitude>-0.2358796</longitude>
+            <overallStart>2016-09-23T11:45:22+01:00</overallStart>
+            <overallEnd>2016-09-23T13:46:44+01:00</overallEnd>
+            <eventStart>2016-09-23T11:45:22+01:00</eventStart>
+            <eventEnd>2016-09-23T13:46:44+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Moderate Disruption - between 15 minutes and 3 hours delay</category>
+            <description>Location : The M6 northbound between junctions J15  and J16 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Delay : There are currently delays of 20 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-773046</guid>
+            <link>http://www.trafficengland.com/?evtID=773046</link>
+            <pubDate>Fri, 23 Sep 2016 13:44:47 BST</pubDate>
+            <title>M6 northbound between J15 and J16 | Northbound | Congestion</title>
+            <reference>UF-16-09-23-504346</reference>
+            <road>M6</road>
+            <region>West Midlands</region>
+            <county>Staffordshire</county>
+            <latitude>52.9752</latitude>
+            <longitude>-2.226777</longitude>
+            <overallStart>2016-09-23T13:34:22+01:00</overallStart>
+            <overallEnd>2016-09-23T13:52:07+01:00</overallEnd>
+            <eventStart>2016-09-23T13:34:22+01:00</eventStart>
+            <eventEnd>2016-09-23T13:52:07+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The A21 northbound between the junctions with the A228  and the A26 Tonbridge East. 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-771904</guid>
+            <link>http://www.trafficengland.com/?evtID=771904</link>
+            <pubDate>Fri, 23 Sep 2016 13:42:08 BST</pubDate>
+            <title>A21 northbound between A228 and A26 near Tonbridge (east) | Northbound | Congestion</title>
+            <reference>UF-16-09-23-500334</reference>
+            <road>A21</road>
+            <region>South East</region>
+            <county>Kent</county>
+            <latitude>51.15006</latitude>
+            <longitude>0.30286562</longitude>
+            <overallStart>2016-09-23T07:12:22+01:00</overallStart>
+            <overallEnd>2016-09-23T13:46:44+01:00</overallEnd>
+            <eventStart>2016-09-23T07:12:22+01:00</eventStart>
+            <eventEnd>2016-09-23T13:46:44+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>No Delay</category>
+            <description>Location : The A49 northbound between the junctions with the A465  and the A438 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-773043</guid>
+            <link>http://www.trafficengland.com/?evtID=773043</link>
+            <pubDate>Fri, 23 Sep 2016 13:41:51 BST</pubDate>
+            <title>A49 northbound between A438 near Hereford (south) and A438 near Hereford (north) | Northbound | Congestion</title>
+            <reference>UF-16-09-23-504343</reference>
+            <road>A49</road>
+            <region>West Midlands</region>
+            <county>County of Herefordshire</county>
+            <latitude>52.057262</latitude>
+            <longitude>-2.7203546</longitude>
+            <overallStart>2016-09-23T13:34:22+01:00</overallStart>
+            <overallEnd>2016-09-23T13:46:45+01:00</overallEnd>
+            <eventStart>2016-09-23T13:34:22+01:00</eventStart>
+            <eventEnd>2016-09-23T13:46:45+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The M6 southbound between junctions J45  and J44 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-772914</guid>
+            <link>http://www.trafficengland.com/?evtID=772914</link>
+            <pubDate>Fri, 23 Sep 2016 13:42:00 BST</pubDate>
+            <title>M6 southbound between J45 and J44 | Southbound | Congestion</title>
+            <reference>UF-16-09-23-503725</reference>
+            <road>M6</road>
+            <region>North West</region>
+            <county>Cumbria</county>
+            <latitude>54.973225</latitude>
+            <longitude>-3.0068512</longitude>
+            <overallStart>2016-09-23T12:53:22+01:00</overallStart>
+            <overallEnd>2016-09-23T13:46:44+01:00</overallEnd>
+            <eventStart>2016-09-23T12:53:22+01:00</eventStart>
+            <eventEnd>2016-09-23T13:46:44+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The A20 westbound between the A2  and the junction with the A260 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-773073</guid>
+            <link>http://www.trafficengland.com/?evtID=773073</link>
+            <pubDate>Fri, 23 Sep 2016 13:43:26 BST</pubDate>
+            <title>A20 westbound between A2 and A256 near Dover (east) | Westbound | Congestion</title>
+            <reference>UF-16-09-23-504369</reference>
+            <road>A20</road>
+            <region>South East</region>
+            <county>Kent</county>
+            <latitude>51.12601</latitude>
+            <longitude>1.3268436</longitude>
+            <overallStart>2016-09-23T13:41:32+01:00</overallStart>
+            <overallEnd>2016-09-23T13:46:32+01:00</overallEnd>
+            <eventStart>2016-09-23T13:41:32+01:00</eventStart>
+            <eventEnd>2016-09-23T13:46:32+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The A49 southbound between the junctions with the A4103  and the A438 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-772923</guid>
+            <link>http://www.trafficengland.com/?evtID=772923</link>
+            <pubDate>Fri, 23 Sep 2016 13:42:03 BST</pubDate>
+            <title>A49 southbound between A4103 and B4224 | Southbound | Congestion</title>
+            <reference>UF-16-09-23-503734</reference>
+            <road>A49</road>
+            <region>West Midlands</region>
+            <county>County of Herefordshire</county>
+            <latitude>52.0705</latitude>
+            <longitude>-2.7222764</longitude>
+            <overallStart>2016-09-23T12:53:22+01:00</overallStart>
+            <overallEnd>2016-09-23T13:46:44+01:00</overallEnd>
+            <eventStart>2016-09-23T12:53:22+01:00</eventStart>
+            <eventEnd>2016-09-23T13:46:44+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The A27 eastbound between the A280  and the junction with the A24 South. 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 15:15 and 15:30 on 23 September 2016. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-772780</guid>
+            <link>http://www.trafficengland.com/?evtID=772780</link>
+            <pubDate>Fri, 23 Sep 2016 13:43:43 BST</pubDate>
+            <title>A27 eastbound between A280 and A24 near Worthing (west) | Eastbound | Congestion</title>
+            <reference>UF-16-09-23-503445</reference>
+            <road>A27</road>
+            <region>South East</region>
+            <county>West Sussex</county>
+            <latitude>50.840866</latitude>
+            <longitude>-0.4220675</longitude>
+            <overallStart>2016-09-23T12:08:22+01:00</overallStart>
+            <overallEnd>2016-09-23T15:16:08+01:00</overallEnd>
+            <eventStart>2016-09-23T12:08:22+01:00</eventStart>
+            <eventEnd>2016-09-23T15:16:08+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The A30 eastbound between the A38 Bodmin South and the junction with the A395 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Delay : There are currently delays of 15 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-772530</guid>
+            <link>http://www.trafficengland.com/?evtID=772530</link>
+            <pubDate>Fri, 23 Sep 2016 12:13:34 BST</pubDate>
+            <title>A30 eastbound between A38 and A389 near Bodmin (east) | Eastbound | Congestion</title>
+            <reference>UF-16-09-23-502161</reference>
+            <road>A30</road>
+            <region>South West</region>
+            <county>Cornwall</county>
+            <latitude>50.46587</latitude>
+            <longitude>-4.69532</longitude>
+            <overallStart>2016-09-23T10:35:30+01:00</overallStart>
+            <overallEnd>2016-09-23T13:49:00+01:00</overallEnd>
+            <eventStart>2016-09-23T10:35:30+01:00</eventStart>
+            <eventEnd>2016-09-23T13:49:00+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>No Delay</category>
+            <description>Location : The A41 eastbound at the junction with the A550 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-773031</guid>
+            <link>http://www.trafficengland.com/?evtID=773031</link>
+            <pubDate>Fri, 23 Sep 2016 13:42:04 BST</pubDate>
+            <title>A41 eastbound between M53 and A550 | Eastbound | Congestion</title>
+            <reference>UF-16-09-23-504331</reference>
+            <road>A41</road>
+            <region>North West</region>
+            <county>Cheshire West and Chester</county>
+            <latitude>53.29851</latitude>
+            <longitude>-2.9568598</longitude>
+            <overallStart>2016-09-23T13:34:22+01:00</overallStart>
+            <overallEnd>2016-09-23T13:46:37+01:00</overallEnd>
+            <eventStart>2016-09-23T13:34:22+01:00</eventStart>
+            <eventEnd>2016-09-23T13:46:37+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The A27 westbound. 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-773000</guid>
+            <link>http://www.trafficengland.com/?evtID=773000</link>
+            <pubDate>Fri, 23 Sep 2016 13:42:43 BST</pubDate>
+            <title>A27 westbound between B2144 and A259 near Chichester (east) | Westbound | Congestion</title>
+            <reference>UF-16-09-23-504320</reference>
+            <road>A27</road>
+            <region>South East</region>
+            <county>West Sussex</county>
+            <latitude>50.83773</latitude>
+            <longitude>-0.7547737</longitude>
+            <overallStart>2016-09-23T13:34:22+01:00</overallStart>
+            <overallEnd>2016-09-23T13:46:44+01:00</overallEnd>
+            <eventStart>2016-09-23T13:34:22+01:00</eventStart>
+            <eventEnd>2016-09-23T13:46:44+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Moderate Disruption - between 15 minutes and 3 hours delay</category>
+            <description>Location : The A1M northbound between junctions J36  and J37 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Delay : There are currently delays of 20 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-772654</guid>
+            <link>http://www.trafficengland.com/?evtID=772654</link>
+            <pubDate>Fri, 23 Sep 2016 13:44:29 BST</pubDate>
+            <title>A1(M) northbound between J36 and J37(M) | Northbound | Congestion</title>
+            <reference>UF-16-09-23-503122</reference>
+            <road>A1(M)</road>
+            <region>North East</region>
+            <county>Doncaster District</county>
+            <latitude>53.50262</latitude>
+            <longitude>-1.1762283</longitude>
+            <overallStart>2016-09-23T11:45:22+01:00</overallStart>
+            <overallEnd>2016-09-23T13:46:44+01:00</overallEnd>
+            <eventStart>2016-09-23T11:45:22+01:00</eventStart>
+            <eventEnd>2016-09-23T13:46:44+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Moderate Disruption - between 15 minutes and 3 hours delay</category>
+            <description>Location : The A3 northbound between the A244  and the junction with the A309 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 15:15 and 15:30 on 23 September 2016. 
+                Delay : There are currently delays of 30 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-772756</guid>
+            <link>http://www.trafficengland.com/?evtID=772756</link>
+            <pubDate>Fri, 23 Sep 2016 13:43:42 BST</pubDate>
+            <title>A3 northbound between A244 and A309 | Northbound | Congestion</title>
+            <reference>UF-16-09-23-503416</reference>
+            <road>A3</road>
+            <region>Eastern</region>
+            <county>Surrey</county>
+            <latitude>51.349533</latitude>
+            <longitude>-0.357327</longitude>
+            <overallStart>2016-09-23T12:04:22+01:00</overallStart>
+            <overallEnd>2016-09-23T15:20:08+01:00</overallEnd>
+            <eventStart>2016-09-23T12:04:22+01:00</eventStart>
+            <eventEnd>2016-09-23T15:20:08+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The A1M southbound between junctions J3  and J1 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Delay : There are currently delays of 15 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-773079</guid>
+            <link>http://www.trafficengland.com/?evtID=773079</link>
+            <pubDate>Fri, 23 Sep 2016 13:44:06 BST</pubDate>
+            <title>A1(M) southbound between J2 and J1(M) | Southbound | Congestion</title>
+            <reference>UF-16-09-23-504375</reference>
+            <road>A1(M)</road>
+            <region>Eastern</region>
+            <county>Hertfordshire</county>
+            <latitude>51.738792</latitude>
+            <longitude>-0.23833138</longitude>
+            <overallStart>2016-09-23T13:41:32+01:00</overallStart>
+            <overallEnd>2016-09-23T13:46:32+01:00</overallEnd>
+            <eventStart>2016-09-23T13:41:32+01:00</eventStart>
+            <eventEnd>2016-09-23T13:46:32+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The A20 eastbound between the A260  and the junction with the A256 Dover West . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-773008</guid>
+            <link>http://www.trafficengland.com/?evtID=773008</link>
+            <pubDate>Fri, 23 Sep 2016 13:41:55 BST</pubDate>
+            <title>A20 eastbound between B2011 and A256 near Dover (west) | Eastbound | Congestion</title>
+            <reference>UF-16-09-23-504328</reference>
+            <road>A20</road>
+            <region>South East</region>
+            <county>Kent</county>
+            <latitude>51.114594</latitude>
+            <longitude>1.3035287</longitude>
+            <overallStart>2016-09-23T13:34:22+01:00</overallStart>
+            <overallEnd>2016-09-23T13:46:37+01:00</overallEnd>
+            <eventStart>2016-09-23T13:34:22+01:00</eventStart>
+            <eventEnd>2016-09-23T13:46:37+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Broken down vehicle</category>
+            <category>No Delay</category>
+            <description>Status : Currently Active. 
+                Lane Closures : Lane one is closed. 
+                Time To Clear : The event is expected to clear between 14:15 and 14:30 on 23 September 2016. 
+                Location : The A46 southbound between the junctions with the A6006  and the A607 Syston North . 
+                Return To Normal : Normal traffic conditions are expected between 14:15 and 14:30 on 23 September 2016. 
+                Lanes Closed : There is one of two lanes closed. 
+                Reason : Broken down vehicle. 
+            </description>
+            <guid isPermaLink="false">GUID1-773017</guid>
+            <link>http://www.trafficengland.com/?evtID=773017</link>
+            <pubDate>Fri, 23 Sep 2016 13:42:39 BST</pubDate>
+            <title>A46 southbound between B676 and A607 near Syston (north) | Southbound | Broken down vehicle</title>
+            <reference>UF-16-09-23-503815</reference>
+            <road>A46</road>
+            <region>East Midlands</region>
+            <county>Leicestershire</county>
+            <latitude>52.731567</latitude>
+            <longitude>-1.0702344</longitude>
+            <overallStart>2016-09-23T13:09:37+01:00</overallStart>
+            <overallEnd>2016-09-23T14:26:00+01:00</overallEnd>
+            <eventStart>2016-09-23T13:09:37+01:00</eventStart>
+            <eventEnd>2016-09-23T14:26:00+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Accident</category>
+            <category>No Delay</category>
+            <description>Location : The M4 westbound between junctions J19  and J20 . 
+                Status : Cleared. 
+                Reason : Road traffic collision. 
+            </description>
+            <guid isPermaLink="false">GUID1-772900</guid>
+            <link>http://www.trafficengland.com/?evtID=772900</link>
+            <pubDate>Fri, 23 Sep 2016 13:43:31 BST</pubDate>
+            <title>M4 westbound between J19 and J20 | Westbound | Accident</title>
+            <reference>UF-16-09-23-503560</reference>
+            <road>M4</road>
+            <region>South West</region>
+            <county>South Gloucestershire</county>
+            <latitude>51.525192</latitude>
+            <longitude>-2.5275764</longitude>
+            <overallStart>2016-09-23T12:43:07+01:00</overallStart>
+            <overallEnd>2016-09-23T13:59:00+01:00</overallEnd>
+            <eventStart>2016-09-23T12:43:07+01:00</eventStart>
+            <eventEnd>2016-09-23T13:59:00+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The A21 southbound at the junction with the A26 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 15:15 and 15:30 on 23 September 2016. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-772653</guid>
+            <link>http://www.trafficengland.com/?evtID=772653</link>
+            <pubDate>Fri, 23 Sep 2016 13:42:42 BST</pubDate>
+            <title>A21 southbound within the A26 near Tonbridge (east) junction | Southbound | Congestion</title>
+            <reference>UF-16-09-23-503121</reference>
+            <road>A21</road>
+            <region>South East</region>
+            <county>Kent</county>
+            <latitude>51.18052</latitude>
+            <longitude>0.2833121</longitude>
+            <overallStart>2016-09-23T11:45:22+01:00</overallStart>
+            <overallEnd>2016-09-23T15:21:53+01:00</overallEnd>
+            <eventStart>2016-09-23T11:45:22+01:00</eventStart>
+            <eventEnd>2016-09-23T15:21:53+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The A500 northbound between the junctions with the A34  and the M6 J16. 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-772373</guid>
+            <link>http://www.trafficengland.com/?evtID=772373</link>
+            <pubDate>Fri, 23 Sep 2016 13:44:42 BST</pubDate>
+            <title>A500 northbound between A34 near Stoke-on-Trent (north) and M6 | Northbound | Congestion</title>
+            <reference>UF-16-09-23-501830</reference>
+            <road>A500</road>
+            <region>West Midlands</region>
+            <county>Staffordshire</county>
+            <latitude>53.069096</latitude>
+            <longitude>-2.3204036</longitude>
+            <overallStart>2016-09-23T09:23:32+01:00</overallStart>
+            <overallEnd>2016-09-23T13:46:44+01:00</overallEnd>
+            <eventStart>2016-09-23T09:23:32+01:00</eventStart>
+            <eventEnd>2016-09-23T13:46:44+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The M25 clockwise exit slip at junction J30 . 
+                Status : Currently Active. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-773077</guid>
+            <link>http://www.trafficengland.com/?evtID=773077</link>
+            <pubDate>Fri, 23 Sep 2016 13:41:42 BST</pubDate>
+            <title>M25 J30 clockwise exit | Clockwise | Congestion</title>
+            <reference>UF-16-09-23-504373</reference>
+            <road>M25</road>
+            <region>Eastern</region>
+            <county>Thurrock</county>
+            <latitude>51.499916</latitude>
+            <longitude>0.2688279</longitude>
+            <overallStart>2016-09-23T13:41:32+01:00</overallStart>
+            <overallEnd>2016-09-23T13:41:42+01:00</overallEnd>
+            <eventStart>2016-09-23T13:41:32+01:00</eventStart>
+            <eventEnd>2016-09-23T13:41:42+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The M1 northbound at junction J32 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-773002</guid>
+            <link>http://www.trafficengland.com/?evtID=773002</link>
+            <pubDate>Fri, 23 Sep 2016 13:41:58 BST</pubDate>
+            <title>M1 northbound within J32 | Northbound | Congestion</title>
+            <reference>UF-16-09-23-504322</reference>
+            <road>M1</road>
+            <region>North East</region>
+            <county>Rotherham District</county>
+            <latitude>53.3922</latitude>
+            <longitude>-1.2831136</longitude>
+            <overallStart>2016-09-23T13:34:22+01:00</overallStart>
+            <overallEnd>2016-09-23T13:46:44+01:00</overallEnd>
+            <eventStart>2016-09-23T13:34:22+01:00</eventStart>
+            <eventEnd>2016-09-23T13:46:44+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Status : Currently Active. 
+                Earlier Reason : Caused by an earlier accident. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Location : The M4 westbound entry slip at junction J18 . 
+                Return To Normal : Normal traffic conditions are expected between 15:00 and 15:15 on 23 September 2016. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-772755</guid>
+            <link>http://www.trafficengland.com/?evtID=772755</link>
+            <pubDate>Fri, 23 Sep 2016 13:43:26 BST</pubDate>
+            <title>M4 J18 westbound access | Westbound | Congestion</title>
+            <reference>UF-16-09-23-503415</reference>
+            <road>M4</road>
+            <region>South West</region>
+            <county>South Gloucestershire</county>
+            <latitude>51.501385</latitude>
+            <longitude>-2.355954</longitude>
+            <overallStart>2016-09-23T12:04:22+01:00</overallStart>
+            <overallEnd>2016-09-23T15:08:45+01:00</overallEnd>
+            <eventStart>2016-09-23T12:04:22+01:00</eventStart>
+            <eventEnd>2016-09-23T15:08:45+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Moderate Disruption - between 15 minutes and 3 hours delay</category>
+            <description>Status : Currently Active. 
+                Delay : There are currently delays of 40 minutes against expected traffic. 
+                Location : The A14 eastbound between junctions J20 Ellington and J23 Huntingdon. 
+                Return To Normal : Normal traffic conditions are expected between 14:00 and 14:15 on 23 September 2016. 
+                Cause : Road traffic collision. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-773018</guid>
+            <link>http://www.trafficengland.com/?evtID=773018</link>
+            <pubDate>Fri, 23 Sep 2016 13:37:57 BST</pubDate>
+            <title>A14 eastbound between J20 and J21 | Eastbound | Congestion</title>
+            <reference>UF-16-09-23-503816</reference>
+            <road>A14</road>
+            <region>Eastern</region>
+            <county>Cambridgeshire</county>
+            <latitude>52.33259</latitude>
+            <longitude>-0.2812866</longitude>
+            <overallStart>2016-09-23T13:11:46+01:00</overallStart>
+            <overallEnd>2016-09-23T14:01:20+01:00</overallEnd>
+            <eventStart>2016-09-23T13:11:46+01:00</eventStart>
+            <eventEnd>2016-09-23T14:01:20+01:00</eventEnd>
+        </item>
+        <item>
+            <author>info@highwaysengland.co.uk</author>
+            <category>Congestion</category>
+            <category>Minor Disruption - up to 15 minutes delay</category>
+            <description>Location : The M1 northbound between junctions J15A  and J16 . 
+                Status : Currently Active. 
+                Return To Normal : Normal traffic conditions are expected between 13:45 and 14:00 on 23 September 2016. 
+                Delay : There are currently delays of 10 minutes against expected traffic. 
+                Reason : Congestion. 
+            </description>
+            <guid isPermaLink="false">GUID1-773028</guid>
+            <link>http://www.trafficengland.com/?evtID=773028</link>
+            <pubDate>Fri, 23 Sep 2016 13:44:44 BST</pubDate>
+            <title>M1 northbound within J15A | Northbound | Congestion</title>
+            <reference>UF-16-09-23-504363</reference>
+            <road>M1</road>
+            <region>East Midlands</region>
+            <county>Northamptonshire</county>
+            <latitude>52.208134</latitude>
+            <longitude>-0.93861914</longitude>
+            <overallStart>2016-09-23T13:37:42+01:00</overallStart>
+            <overallEnd>2016-09-23T13:45:05+01:00</overallEnd>
+            <eventStart>2016-09-23T13:37:42+01:00</eventStart>
+            <eventEnd>2016-09-23T13:45:05+01:00</eventEnd>
+        </item>
+    </channel>
+</rss>

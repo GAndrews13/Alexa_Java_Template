@@ -1,5 +1,7 @@
 package com.alexis.alexis_java_template;
 
+import com.alexis.alexis_java_template.Traffic.TrafficReport;
+import com.alexis.alexis_java_template.Traffic.TrafficReportHandler;
 import java.util.ArrayList;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -18,11 +20,13 @@ import com.amazon.speech.ui.PlainTextOutputSpeech;
 import com.amazon.speech.ui.SsmlOutputSpeech;
 import com.amazon.speech.ui.Reprompt;
 import com.amazon.speech.ui.SimpleCard;
+import java.io.IOException;
 
 public class JavaSpeechlet implements Speechlet {
 
     private static final Logger log = LoggerFactory.getLogger(JavaSpeechlet.class);
-
+    private TrafficReportHandler trh = new TrafficReportHandler();
+    
     @Override
     public void onSessionStarted(final SessionStartedRequest request, final Session session)
             throws SpeechletException {
@@ -55,10 +59,11 @@ public class JavaSpeechlet implements Speechlet {
         } else if ("AMAZON.HelpIntent".equals(intentName)) {
             // Create the plain text output.
             String speechOutput
-                    = "Help Text goes here";
+                    = "Welcome to the Highways agencies accident update service. I can help tell you about the accidents in your country."
+                    + "For example saying, Alexa tell me about accidents in Kent, will tell you about accidents in Kent";
 
-            String repromptText = "Which day do you want?";
-
+            String repromptText = "Which county would you like to know more about?";
+            
             return newAskResponse(speechOutput, false, repromptText, false);
         } else if ("AMAZON.StopIntent".equals(intentName)) {
             PlainTextOutputSpeech outputSpeech = new PlainTextOutputSpeech();
@@ -135,14 +140,18 @@ public class JavaSpeechlet implements Speechlet {
 
     private SpeechletResponse handleEventRequest(Intent intent, Session session) {
         //TODO handle initial logic here
-
-        ArrayList<String> events = new ArrayList<>();
+        try {
+            trh.updateTrafficReports();
+        } catch (Exception ex) {
+            System.out.println("ERROR : " + ex.getStackTrace());
+        }
         String speechOutput = "";
-
-        if (events.isEmpty()) {
+        
+        if (trh.getNumberOfIncidents() == 0) {
             speechOutput
-                    = "There is a problem connecting to Wikipedia at this time."
-                    + " Please try again later.";
+                    = "There are currently no accidents recorded. "
+                    + "This could be due to a network issue with connecting to the Highway agency. "
+                    + "Please try again in a minute";
 
             // Create the plain text output
             SsmlOutputSpeech outputSpeech = new SsmlOutputSpeech();
@@ -154,16 +163,19 @@ public class JavaSpeechlet implements Speechlet {
             StringBuilder cardOutputBuilder = new StringBuilder();
 
             //TODO Logic goes here
+            ArrayList<TrafficReport> reports = trh.getCountyReportsFor(intent.getSlot("project").getValue());
+            for (TrafficReport report : reports) {
+                speechOutputBuilder.append("<p>").append(report.reportNaturally()).append("</p>");
+                cardOutputBuilder.append("<p>").append(report.reportNaturally()).append("</p>");
+            }
             String cardTitle = "Card";
-
+            
             speechOutputBuilder.append(" Wanna go deeper in history?");
             cardOutputBuilder.append(" Wanna go deeper in history?");
             speechOutput = speechOutputBuilder.toString();
 
             String repromptText
-                    = "With History Buff, you can get historical events for any day of the year."
-                    + " For example, you could say today, or August thirtieth."
-                    + " Now, which day do you want?";
+                    = "Which county do you want a traffic update on?";
 
             // Create the Simple card content.
             SimpleCard card = new SimpleCard();
