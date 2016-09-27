@@ -61,40 +61,51 @@ public class TrafficReport {
             description = item.getElementsByTagName("description").item(0).getTextContent();
             category = item.getElementsByTagName("category").item(0).getTextContent();
         } catch (Exception ex) {
-            System.out.println("FAILURE! " + ex.getMessage());
-            ex.printStackTrace();
+            System.out.println("FAILURE! " + ex.getStackTrace());
         }
     }
 
     public String reportNaturally() {
         String reportTemplate = "There is an accident on %s. %s";
-        String location = "";
+        String details = parseDetails();
+        return String.format(reportTemplate, road, details);
+    }
+
+    private String stripTag(String text) {
+        String[] textSplit = text.split(":");
+        return textSplit[1].trim();
+    }
+
+    public void print() {
+        System.out.println(reportNaturally());
+    }
+
+    public String parseDetails() {
         StringBuilder details = new StringBuilder();
         String[] stopSplit = description.split("\\.");
         for (String desc : stopSplit) {
             desc = desc.trim();
-            if (desc.startsWith("Delay :")) {
-                details.append(stripTag(desc)).append(" . ");
-            } else if (desc.startsWith("Return to normal :")) {
-                details.append(stripTag(desc)).append(".");
-            } else if (desc.startsWith("Reason : ")) {
-                details.append("The reason for this issue is the ").append(stripTag(desc.toLowerCase()));
-            } else if (desc.startsWith("Location :" )) {
-                 location = stripTag(desc);
+            String[] descDetails = desc.split(":");
+            desc = desc.replace(".","");
+            switch (descDetails[0].trim()) {
+                case "Delay":
+                case "Return to normal":
+                    details.append(stripTag(desc));
+                    details.append(".");
+                    break;
+                case "Reason":
+                    details.append(" The reason for this issue is the ").append(stripTag(desc.toLowerCase()));
+                    details.append(".");
+                    break;
+                case "Lane Closures":
+                    details.append("Currently ").append(stripTag(desc.toLowerCase()));
+                    details.append(".");
+                    break;
+                case "Location":
+                    road = stripTag(desc.toLowerCase());
+                    break;
             }
         }
-        if("".equals(location)) {
-            location = road;
-        } 
-        return String.format(reportTemplate, location, details.toString());
-    }
-    
-    private String stripTag( String text) {
-        String[] textSplit = text.split(":");
-        return textSplit[1].trim();
-    }
-    
-    public void print() {
-        System.out.println(reportNaturally());
+        return details.toString();
     }
 }

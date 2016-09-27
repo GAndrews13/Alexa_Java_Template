@@ -1,4 +1,4 @@
 handleEventRequest traffic in {project}
-handleEventRequest sampleText to be used in {project}
-handleEventRequest {project} text
+handleEventRequest whats the traffic like in {project}
+handleEventRequest {project} traffic
 

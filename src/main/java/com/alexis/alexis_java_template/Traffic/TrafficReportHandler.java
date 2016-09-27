@@ -8,18 +8,11 @@ import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.ArrayList;
-import java.util.Collection;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Set;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import javax.xml.parsers.ParserConfigurationException;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
-import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
-import org.xml.sax.SAXException;
 
 public class TrafficReportHandler {
 
@@ -31,7 +24,6 @@ public class TrafficReportHandler {
             Document doc = XmlParser.parseXmlFrom(document);
             Element focus = doc.getElementById("channel");
             NodeList focusList = doc.getElementsByTagName("item");
-            System.out.println(focusList.getLength());
             for (int i = 0; i < focusList.getLength(); i++) {
                 String node = XmlParser.nodeToString(focusList.item(i));
                 TrafficReport report = new TrafficReport(node);
@@ -57,20 +49,19 @@ public class TrafficReportHandler {
         return tempList;
     }
 
-    public String getLatestTrafficReports() throws MalformedURLException, IOException {
+    private String getLatestTrafficReports() throws MalformedURLException, IOException {
         URL url = new URL("http://m.highways.gov.uk/feeds/rss/UnplannedEvents.xml");
         HttpURLConnection con = (HttpURLConnection) url.openConnection();
         BufferedReader in = new BufferedReader(
                 new InputStreamReader(con.getInputStream()));
         String inputLine;
-        StringBuffer response = new StringBuffer();
+        StringBuilder response = new StringBuilder();
 
         while ((inputLine = in.readLine()) != null) {
             response.append(inputLine);
         }
         in.close();
         con.disconnect();
-        System.out.println(response.toString());
         return response.toString();
     }
     

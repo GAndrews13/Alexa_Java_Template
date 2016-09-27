@@ -20,7 +20,6 @@ import com.amazon.speech.ui.PlainTextOutputSpeech;
 import com.amazon.speech.ui.SsmlOutputSpeech;
 import com.amazon.speech.ui.Reprompt;
 import com.amazon.speech.ui.SimpleCard;
-import java.io.IOException;
 
 public class JavaSpeechlet implements Speechlet {
 
@@ -96,11 +95,11 @@ public class JavaSpeechlet implements Speechlet {
      * the user
      */
     private SpeechletResponse getWelcomeResponse() {
-        String speechOutput = "Introduction";
+        String speechOutput = "Welcome to the Highway Agencies County Traffic reports";
         // If the user either does not reply to the welcome message or says something that is not
         // understood, they will be prompted again with this text.
         String repromptText
-                = "Long into and guide";
+                = "To find out more about your counties unplanned delays simply request it by saying 'traffic in ' followed by your county.";
 
         return newAskResponse(speechOutput, false, repromptText, false);
     }
@@ -139,7 +138,6 @@ public class JavaSpeechlet implements Speechlet {
     }
 
     private SpeechletResponse handleEventRequest(Intent intent, Session session) {
-        //TODO handle initial logic here
         try {
             trh.updateTrafficReports();
         } catch (Exception ex) {
@@ -169,9 +167,6 @@ public class JavaSpeechlet implements Speechlet {
                 cardOutputBuilder.append("<p>").append(report.reportNaturally()).append("</p>");
             }
             String cardTitle = "Card";
-            
-            speechOutputBuilder.append(" Wanna go deeper in history?");
-            cardOutputBuilder.append(" Wanna go deeper in history?");
             speechOutput = speechOutputBuilder.toString();
 
             String repromptText

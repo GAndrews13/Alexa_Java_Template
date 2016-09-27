@@ -10,6 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 import static junit.framework.Assert.assertEquals;
 import static junit.framework.Assert.fail;
+import org.junit.Ignore;
 import org.junit.Test;
 
 
@@ -49,14 +50,17 @@ public class TrafficReportTest {
     public void TrafficReportNaturalReport_01() throws IOException {
         String text = getXmlTextFromFile("TrafficReportTC01");
         TrafficReport report = new TrafficReport( text);
-        assertEquals("There is an accident on The M54 eastbound between junction J1 and the M6. There are currently delays of 15 minutes against expected traffic . The reason for this issue is the congestion", report.reportNaturally());
+        System.out.println(report.reportNaturally());
+        assertEquals(
+                "There is an accident on the m54 eastbound between junction j1 and the m6. There are currently delays of 15 minutes against expected traffic. The reason for this issue is the congestion.",
+                report.reportNaturally());
     }
     
     @Test
     public void TrafficReportHandler_GetLatest() {
         try {
             TrafficReportHandler trh = new TrafficReportHandler();
-            trh.getLatestTrafficReports();
+            trh.updateTrafficReports();
         } catch (Exception ex) {
             fail("Failed with exception: " + ex.getMessage());
         }
@@ -80,5 +84,12 @@ public class TrafficReportTest {
         ArrayList<TrafficReport> kentReports = trh.getCountyReportsFor("Kent");
         assertEquals(2, kentReports.size());
         
+    }
+    
+    @Test
+    public void TrafficReportLiveTest() throws IOException {
+        TrafficReportHandler trh = new TrafficReportHandler();
+        trh.updateTrafficReports();
+        trh.printAllReports();
     }
 }
